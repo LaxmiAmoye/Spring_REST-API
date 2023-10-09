@@ -1,0 +1,73 @@
+2023-10-09 16:12:32,927 [main] INFO  in.ashokit.Application                             - Starting Application v0.0.1-SNAPSHOT using Java 17.0.8 with PID 2216 (E:\Bhagya\JRTP\STS\08_Spring_REST_API_AWS_Cloud\target\sb-rest-api.jar started by admin in E:\Bhagya\JRTP\STS\08_Spring_REST_API_AWS_Cloud\target)
+2023-10-09 16:12:32,932 [main] INFO  in.ashokit.Application                             - No active profile set, falling back to 1 default profile: "default"
+2023-10-09 16:12:35,742 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 9090 (http)
+2023-10-09 16:12:35,768 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-9090"]
+2023-10-09 16:12:35,775 [main] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-10-09 16:12:35,776 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-09 16:12:35,978 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-10-09 16:12:35,979 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 2833 ms
+2023-10-09 16:12:36,688 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-9090"]
+2023-10-09 16:12:36,753 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 9090 (http) with context path ''
+2023-10-09 16:12:36,800 [main] INFO  in.ashokit.Application                             - Started Application in 4.999 seconds (process running for 7.247)
+2023-10-09 16:12:46,751 [main] INFO  in.ashokit.Application                             - Starting Application v0.0.1-SNAPSHOT using Java 17.0.8 with PID 14792 (E:\Bhagya\JRTP\STS\08_Spring_REST_API_AWS_Cloud\target\sb-rest-api.jar started by admin in E:\Bhagya\JRTP\STS\08_Spring_REST_API_AWS_Cloud\target)
+2023-10-09 16:12:46,756 [main] INFO  in.ashokit.Application                             - No active profile set, falling back to 1 default profile: "default"
+2023-10-09 16:12:49,037 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 9090 (http)
+2023-10-09 16:12:49,053 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-9090"]
+2023-10-09 16:12:49,059 [main] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-10-09 16:12:49,060 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-09 16:12:49,228 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-10-09 16:12:49,228 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 2336 ms
+2023-10-09 16:12:49,960 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-9090"]
+2023-10-09 16:12:49,976 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2023-10-09 16:12:49,984 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Pausing ProtocolHandler ["http-nio-9090"]
+2023-10-09 16:12:49,985 [main] INFO  o.apache.catalina.core.StandardService             - Stopping service [Tomcat]
+2023-10-09 16:12:50,001 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-9090"]
+2023-10-09 16:12:50,003 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Destroying ProtocolHandler ["http-nio-9090"]
+2023-10-09 16:12:50,021 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLogger          - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-10-09 16:12:50,069 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter             - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9090 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9090 or configure this application to listen on another port.
+
+2023-10-09 16:16:56,762 [main] INFO  in.ashokit.Application                             - Starting Application v0.0.1-SNAPSHOT using Java 17.0.8 with PID 4836 (E:\Bhagya\JRTP\STS\08_Spring_REST_API_AWS_Cloud\target\sb-rest-api.jar started by admin in E:\Bhagya\JRTP\STS\08_Spring_REST_API_AWS_Cloud\target)
+2023-10-09 16:16:56,769 [main] INFO  in.ashokit.Application                             - No active profile set, falling back to 1 default profile: "default"
+2023-10-09 16:16:59,095 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 9090 (http)
+2023-10-09 16:16:59,114 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-9090"]
+2023-10-09 16:16:59,120 [main] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-10-09 16:16:59,120 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-09 16:16:59,313 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-10-09 16:16:59,314 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 2354 ms
+2023-10-09 16:17:00,162 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-9090"]
+2023-10-09 16:17:00,178 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2023-10-09 16:17:00,185 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Pausing ProtocolHandler ["http-nio-9090"]
+2023-10-09 16:17:00,186 [main] INFO  o.apache.catalina.core.StandardService             - Stopping service [Tomcat]
+2023-10-09 16:17:00,202 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-9090"]
+2023-10-09 16:17:00,203 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Destroying ProtocolHandler ["http-nio-9090"]
+2023-10-09 16:17:00,223 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLogger          - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-10-09 16:17:00,267 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter             - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9090 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9090 or configure this application to listen on another port.
+
